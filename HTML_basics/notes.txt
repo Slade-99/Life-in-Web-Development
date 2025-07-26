@@ -1,0 +1,52 @@
+Html just gives us text in a proper formatted style
+
+It understands basic elements like 
+paragraph <p> </p>
+
+Headings  <h1> </h1>
+
+Image 
+
+
+we need tags to place these elements. It works like
+containers to contain values
+
+Tags are of opening and closing type.
+Combination of the tags and the content
+between them is called an element.
+
+Tags can be nested as well.
+
+
+
+
+Boilerplater: The part that will always
+remain
+
+Everything is wrapped between
+<html> </html>
+
+
+Include all the meta data (extra info) in the
+<head> </head> tag. These never gets displayed
+
+
+<title> goes in the head tag and it needs
+to be named carefully at it becomes the
+name of the tab
+
+
+All the content in the body tag will
+appear in the webpage
+
+
+Attributes are used to add more info to a tag
+
+
+
+Anchor element is used to attach links 
+we can use links on internet or use relative links which are pages present locally
+<a href="www. .... " > Click here </a>
+<img src ="image.png" alt= "A photo was here" height="300px"  width="300px"> This tag does not have pairs like <br>
+src can use online links or locally stored images
+copy image address from online
